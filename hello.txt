@@ -1,0 +1,5 @@
+Hello!
+This is file!
+It has some lines in it.
+Not too many.
+Byeee!
